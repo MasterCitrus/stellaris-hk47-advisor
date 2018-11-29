@@ -1,0 +1,8 @@
+hk47_advisor = {
+	name = "advisor_voice_hk47"
+	icon = "gfx/interface/icons/ethics/ethic_hk-47.dds"
+	
+	playable = {}
+	
+	weight = {}	
+}
